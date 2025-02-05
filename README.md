@@ -1,2 +1,2 @@
 # ProgettoMLSA
-Project for Machine Learning for Software Analysis Course @ UniFi
+Project for Machine Learning for Software Analysis Course at UniFi
